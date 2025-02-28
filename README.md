@@ -15,5 +15,8 @@ Light sensor: Monitors the light intensity of the plant's surroundings to ensure
 # Source Code:
 ![image](https://github.com/user-attachments/assets/04828285-47b2-49d1-bc0a-2e8be3071ebd)
 
+![image](https://github.com/user-attachments/assets/4fef9542-286d-4552-a2df-3f1034ae879f)
+
+
 # Meet the Team:
 @Sera130
