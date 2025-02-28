@@ -13,6 +13,8 @@ Moisture sensor: Tracks the moisture level of the soil
 Light sensor: Monitors the light intensity of the plant's surroundings to ensure that the plant is getting enough light
 
 # Source Code:
+
+# Images
 ![image](https://github.com/user-attachments/assets/04828285-47b2-49d1-bc0a-2e8be3071ebd)
 
 ![image](https://github.com/user-attachments/assets/4fef9542-286d-4552-a2df-3f1034ae879f)
