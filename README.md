@@ -27,3 +27,5 @@ ESP32 Controller!!
 
 # Meet the Team:
 @Sera130
+@Ella-Cheng
+@joysong-z
