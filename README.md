@@ -3,6 +3,7 @@
 ## Cyber Ponies Repository
 
 Description: A Valley Christian High School CyberQuest L2 team! Our project is a Smart Plant Monitor 
+
 Languages: C++, HTML, Javascript
 
 ## Engineering Notebook: Updates + Meeting Notes
