@@ -5,7 +5,7 @@
 Description: A Valley Christian High School CyberQuest L2 team! Our project is a Smart Plant Monitor 
 
 ## Engineering Notebook: Updates + Meeting Notes
-{google_docs}document_[url](https://docs.google.com/document/d/1z-QsHLBlsf0Ue8e-Vi6UJ9-FZVHO9VlD3msjy8PQWck/edit?usp=sharing){/google_docs}
+_[url](https://docs.google.com/document/d/1z-QsHLBlsf0Ue8e-Vi6UJ9-FZVHO9VlD3msjy8PQWck/edit?usp=sharing){/google_docs}
 
 # Features:
 Moisture sensor: Tracks the moisture level of the soil
