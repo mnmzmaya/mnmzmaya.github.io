@@ -33,7 +33,11 @@ ESP32 Controller!
 
 # Credits:
 Aanya: Team Lead
+
 Maya: Hardware
+
 Joysong: Security Tester
+
 Sera: Software Lead
+
 Ella: Software
