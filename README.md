@@ -26,12 +26,16 @@ ESP32 Controller!
 
 # Images
 ESP32 Acebott Microcontroller:
+![Image (2)](https://github.com/user-attachments/assets/c6dba9d2-0089-4f8d-b89d-de0e751e641b)
 
 RGB Light:
+![Image](https://github.com/user-attachments/assets/3f753e1c-2303-402c-af3f-b70d34cc5706)
 
 LCD (Liquid Crystal Display):
+![Image (1)](https://github.com/user-attachments/assets/428046d5-8564-4fa3-8347-b4aa43f7823e)
 
 Mositure Sensor:
+![Image (3)](https://github.com/user-attachments/assets/0fb24c2b-bf19-4634-9640-ba20a99ff58a)
 
 # Meet the Team:
 @Sera130
