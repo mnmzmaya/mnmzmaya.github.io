@@ -25,6 +25,13 @@ ESP32 Controller!
 # Source Code:
 
 # Images
+ESP32 Acebott Microcontroller:
+
+RGB Light:
+
+LCD (Liquid Crystal Display):
+
+Mositure Sensor:
 
 # Meet the Team:
 @Sera130
@@ -34,10 +41,10 @@ ESP32 Controller!
 # Credits:
 Aanya: Team Lead
 
-Maya: Hardware
+Maya: Software Lead, Hardware
 
-Joysong: Security Tester
+Joysong: Hardware
 
-Sera: Software Lead
+Sera: Security
 
 Ella: Software
