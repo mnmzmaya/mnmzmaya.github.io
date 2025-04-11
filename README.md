@@ -39,12 +39,7 @@ Mositure Sensor:
 
 ![Image (3)](https://github.com/user-attachments/assets/0fb24c2b-bf19-4634-9640-ba20a99ff58a)
 
-# Meet the Team:
-@Sera130
-@Ella-Cheng
-@joysong-z
-
-# Credits:
+# Meet the Team
 Aanya: Team Lead
 
 Maya: Software Lead, Hardware
