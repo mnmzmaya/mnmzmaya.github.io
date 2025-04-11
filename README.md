@@ -14,8 +14,6 @@ Languages: C++, HTML, Javascript
 # Features and Parts:
 Moisture sensor: Tracks the moisture level of the soil
 
-Light sensor: Monitors the light intensity of the plant's surroundings to ensure that the plant is getting enough light
-
 LED Light: Indicates if action is needed
 
 LCD: located near plant, offers quick overview of stats/actions needed
@@ -23,6 +21,7 @@ LCD: located near plant, offers quick overview of stats/actions needed
 ESP32 Controller!
 
 # Source Code:
+[Moisture Sensor](https://github.com/Circuit-Digest/Basic-Arduino-Tutorials-for-Beginners-/blob/main/Interfacing%20Soil%20Moisture%20Sensor%20with%20Arduino/code/code_soil_moisture_sensor/code_soil_moisture_sensor.ino)
 
 # Images
 ESP32 Acebott Microcontroller:
