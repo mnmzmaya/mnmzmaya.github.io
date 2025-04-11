@@ -46,6 +46,6 @@ Maya: Software Lead, Hardware
 
 Joysong: Hardware
 
-Sera: Security
+Sera: Software, Security
 
 Ella: Software
